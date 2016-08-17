@@ -8,3 +8,5 @@
 + sudo rm -Rf /Applications/Navicat\ Premium.app/
 + 
 test
+
+sdf
