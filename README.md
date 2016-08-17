@@ -7,6 +7,3 @@
 + rm -Rf ~/Library/Preferences/com.prect.NavicatPremium.plist
 + sudo rm -Rf /Applications/Navicat\ Premium.app/
 + 
-test
-
-sdf
